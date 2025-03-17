@@ -22,3 +22,6 @@ The vision of this project is to create a **secure, decentralized, and transpare
 - **Smart Contract-Driven Matching System**: Provides fairness in matchmaking.
 - **Token Rewards for Engagement**: Encourages genuine interaction and activity.
 - **Web3 Authentication**: Users can log in using blockchain wallets like MetaMask.
+
+## Contract Address
+0x0C997Be7788F3f6E78B5879f6B00eA8511c35Df9
