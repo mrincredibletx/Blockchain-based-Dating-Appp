@@ -1,4 +1,4 @@
-# Blockchain-based-Dating-App-
+# Blockchain-based-Dating-App
 
 ## Project Title
 Blockchain-based Dating App
