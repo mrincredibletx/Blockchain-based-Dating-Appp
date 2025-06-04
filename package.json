@@ -1,0 +1,13 @@
+{
+  "name": "blockchain-dating-deploy",
+  "version": "1.0.0",
+  "description": "Deployment script for BlockchainDatingApp using Ethers v6",
+  "main": "deploy.js",
+  "type": "module",
+  "scripts": {
+    "deploy": "node deploy.js"
+  },
+  "dependencies": {
+    "ethers": "^6.10.0"
+  }
+}
